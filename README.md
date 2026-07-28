@@ -2,8 +2,9 @@
 
 《寶貝叮咚》公開網頁：隱私政策／使用條款／帳號刪除申請。
 
+- **唯一全文來源**：本站（GitHub Pages）
+- App 以 WebView 開啟本站，不再內嵌條款本文
 - 生效日期：2026年8月15日（與預計上架日對齊）
-- 內容來源：`BabyDingDong` 專案 `LegalDocumentContent.kt`（請同步維護）
 - 本文件為營運草案，不構成法律意見
 
 ## 線上網址（GitHub Pages）
