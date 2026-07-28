@@ -246,3 +246,18 @@ footer {
     margin-bottom: 1.35rem;
   }
 }
+
+/* App WebView embed：隱藏站內導覽，留給原生返回鈕 */
+html.embed .app-bar,
+html.embed footer {
+  display: none !important;
+}
+
+html.embed .wrap {
+  /* 避開左上角返回圓鈕 */
+  padding-top: calc(var(--pad-y) + 2.75rem);
+}
+
+html.embed body {
+  background: var(--bg);
+}
